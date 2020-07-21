@@ -19,4 +19,11 @@
   1) [Bengali.Ai - BRONZE MEDAL TOP 6%](https://www.kaggle.com/tkrsh09)
 
 
+## Certifications 
+
  
+ 1) [Machine Learning - Andrew NG (Stanford University)](https://coursera.org/share/4587ec1bd1e05a5a5c52152813ef2908)
+
+ 2) [Deep Learning Specialization - Deeplearning.ai](https://coursera.org/share/a462a35952ad2bd5ffe805752a4ed812)
+
+ 3) [Tensorflow In Practise Specialization - Deeplearning.ai](https://coursera.org/share/07f6a14171e7324b4d289f92ec39ba7a)

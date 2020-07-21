@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**tkrsh/tkrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Articles Published 
 
-Here are some ideas to get you started:
+ 1) [Intracranial Hemorrhage Detection Using Neural Network Based Methods With Federated Learning](https://arxiv.org/abs/2005.08644)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## COVID-19 Research 
+
+ 1) [State Wise COVID-19 Analysis [India]](https://www.linkedin.com/pulse/state-wise-covid-19-daily-cases-analysis-india-chandra-srivastava)
+ 
+ 2) [INDIA COVID-19 HEATMAP VISUALISATION](https://www.linkedin.com/posts/utkarsh-srivastava-tkrsh_covid19-visualization-datascience-activity-6659794807977844736-b0b2)
+
+## Kaggle Competitions  
+
+  1) [Bengali.Ai - BRONZE MEDAL TOP 6%](https://www.kaggle.com/tkrsh09)

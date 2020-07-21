@@ -1,6 +1,6 @@
 ### Hey There I am Tkrsh, Professional Doge Coin Miner
 
-![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif width=500)
+![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif)
 
 
 ## Research Articles Published 

@@ -1,6 +1,6 @@
 ### Hey There I am Tkrsh, Professional Doge Coin Miner
 
-![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif)
+![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif width=500)
 
 
 ## Research Articles Published 
@@ -19,4 +19,4 @@
   1) [Bengali.Ai - BRONZE MEDAL TOP 6%](https://www.kaggle.com/tkrsh09)
 
 
-![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif)
+ 

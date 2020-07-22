@@ -1,4 +1,4 @@
-### Hey There I am Tkrsh, Professional Doge Coin Miner
+### Hey There! I am Tkrsh, Professional Doge Coin Miner
 
 ![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif)
 

@@ -4,7 +4,7 @@
 
 ## Blogs and Profiles
 
-1) [Personal Website](https:www.tkrsh.com)       2) [Kaggle](https://www.kaggle.com/tkrsh09)
+1) [Personal Website](https:www.tkrsh.com)     &nbsp;  2) [Kaggle](https://www.kaggle.com/tkrsh09)
 
 3) [LinkedIn](https://www.linkedin.com/in/utkarsh-srivastava-tkrsh/)   &nbsp;   4) [Google Scholar](https://scholar.google.com/citations?user=tjpx5GIAAAAJ&hl=en)
 

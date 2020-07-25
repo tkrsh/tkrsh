@@ -20,7 +20,7 @@
  2) [INDIA COVID-19 HEATMAP VISUALISATION](https://www.linkedin.com/posts/utkarsh-srivastava-tkrsh_covid19-visualization-datascience-activity-6659794807977844736-b0b2)
 ## Kaggle Kernals
 
- 1) [OSIC Pulmonary Fibrosis Progression|DomainResearch|Basic EDA|DICOM Visualizations](https://www.kaggle.com/tkrsh09)https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
+ 1) [OSIC Pulmonary Fibrosis Progression|DomainResearch|Basic EDA|DICOM Visualizations](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
 ## Kaggle Competitions  
 
   1) [Bengali.Ai - BRONZE MEDAL TOP 6%](https://www.kaggle.com/tkrsh09)

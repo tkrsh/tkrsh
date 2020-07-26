@@ -33,4 +33,4 @@
  2) [Deep Learning Specialization - Deeplearning.ai](https://coursera.org/share/a462a35952ad2bd5ffe805752a4ed812)
  3) [Tensorflow In Practise Specialization - Deeplearning.ai](https://coursera.org/share/07f6a14171e7324b4d289f92ec39ba7a)
  
- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6693033360048062464" height="454" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+ 

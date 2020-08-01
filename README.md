@@ -1,7 +1,4 @@
-### Hey There! I am Tkrsh, Professional Doge Coin Miner
-
-![DogeCoin](https://github.com/tkrsh/tkrsh/blob/master/dogecoin.gif)
-
+ 
 ## Blogs and Profiles
 
 1) [Personal Website](https:www.tkrsh.com)       

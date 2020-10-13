@@ -1,5 +1,3 @@
- 
- ![Banner](0.jpeg)
 ## Blogs and Profiles
 
 1) [Web Portfolio](https:www.tkrsh.com)       

@@ -1,3 +1,8 @@
+## Recent Work
+
+[Understanding Pulmonary Fibrosis Progression](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
+
+
 ## Blogs and Profiles
 
 1) [Web Portfolio](https:www.tkrsh.com)       

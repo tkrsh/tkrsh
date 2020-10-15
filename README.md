@@ -1,6 +1,6 @@
 ## Recent Work
 
-1) [Understanding Pulmonary Fibrosis Progression Domain Research | Basic EDA | DICOM Visualization ](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
+1) [Understanding Pulmonary Fibrosis Progression | Domain Research | Basic EDA | DICOM Visualization ](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
 
 
 ## Blogs and Profiles

@@ -1,7 +1,8 @@
 ## Recent Work
 
-1) [Understanding Pulmonary Fibrosis Progression | Domain Research | Basic EDA | DICOM Visualization ](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
-2) [Top Coder - Rank Top Competive Coders](https://topcoder.tkrsh.com/)
+1) [Top Coder - Rank Top Competive Coders](https://topcoder.tkrsh.com/)
+
+2) [Understanding Pulmonary Fibrosis Progression | Domain Research | Basic EDA | DICOM Visualization ](https://www.kaggle.com/tkrsh09/domain-research-basic-eda-dicom-visualization)
 
 ## Blogs and Profiles
 

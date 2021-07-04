@@ -22,4 +22,6 @@
  2) [Deep Learning Specialization - Deeplearning.ai](https://coursera.org/share/a462a35952ad2bd5ffe805752a4ed812)
  3) [Tensorflow In Practise Specialization - Deeplearning.ai](https://coursera.org/share/07f6a14171e7324b4d289f92ec39ba7a)
  
- 
+## Resume 
+
+1) [Resume](https://drive.google.com/file/d/1Jj7qEsqXUc9x0lD8vr0xQvYNAVkk5CX0/view?usp=sharing)

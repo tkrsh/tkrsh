@@ -6,7 +6,7 @@
 
 ## Profiles
 
-1) [Web Portfolio](https:www.tkrsh.com)       
+1) [Web Portfolio](https://www.tkrsh.com)       
 2) [Kaggle [Notebooks Expert]](https://www.kaggle.com/tkrsh09)
 3) [LinkedIn](https://www.linkedin.com/in/utkarsh-srivastava-tkrsh/)     
 4) [Google Scholar](https://scholar.google.com/citations?user=tjpx5GIAAAAJ&hl=en)

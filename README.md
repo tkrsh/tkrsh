@@ -32,5 +32,7 @@
  2) [Deep Learning Specialization - Deeplearning.ai](https://coursera.org/share/a462a35952ad2bd5ffe805752a4ed812)
  3) [Tensorflow In Practise Specialization - Deeplearning.ai](https://coursera.org/share/07f6a14171e7324b4d289f92ec39ba7a)
   
+[![Tkrsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkrsh)](https://github.com/anuraghazra/github-readme-stats)
+
   
  ![svg](github-user-contribution.svg)

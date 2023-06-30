@@ -17,12 +17,6 @@
 ## Research Articles   
 
  1) [Intracranial Hemorrhage Detection Using Neural Network Based Methods With Federated Learning](https://arxiv.org/abs/2005.08644)
-
-## Articles
-
- 1) [Host Your Own Encrypted Voice , Text nad File Sharing Server | Voice Over Internet](https://medium.com/@tkrsh.srv.09/host-your-own-encrypted-voice-text-server-voice-over-internet-2a6eba512ff2)
- 2) [State Wise COVID-19 Analysis [India]](https://www.linkedin.com/pulse/state-wise-covid-19-daily-cases-analysis-india-chandra-srivastava/)
-
  
  
 ## Certifications 

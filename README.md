@@ -26,6 +26,6 @@
  2) [Deep Learning Specialization - Deeplearning.ai](https://coursera.org/share/a462a35952ad2bd5ffe805752a4ed812)
  3) [Tensorflow In Practise Specialization - Deeplearning.ai](https://coursera.org/share/07f6a14171e7324b4d289f92ec39ba7a)
   
- 
-  
- ![DogE](https://media1.tenor.com/m/TE7DV0okc-UAAAAd/dogecoin-doge.gif) 
+ <!---
+![DogE](https://media1.tenor.com/m/TE7DV0okc-UAAAAd/dogecoin-doge.gif) 
+-->
